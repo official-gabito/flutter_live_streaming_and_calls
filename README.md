@@ -80,7 +80,7 @@ This Flutter application serves as a comprehensive demonstration of real-time co
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/flutter-live-streaming-demo.git
+   git clone https://github.com/official-gabito/flutter_live_streaming_and_caIls.git
    cd flutter-live-streaming-demo
    ```
 
