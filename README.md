@@ -177,7 +177,7 @@ This project is licensed under the **MIT License**.
 - 📝 You provide appropriate credit to Gabriel Naandum (@official-gabito)
 - 📝 You include the original license notice
 
-See the **[LICENSE](https://github.com/official-gabito/flutter_live_streaming_and_caIls/LICENSE)** file for the full license text
+See the **[LICENSE](LICENSE)** file for the full license text
 
 ## 👨‍💻 About the Developer
 
