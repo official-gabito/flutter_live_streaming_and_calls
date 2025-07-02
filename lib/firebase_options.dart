@@ -14,6 +14,8 @@ import 'package:flutter/foundation.dart'
 ///   options: DefaultFirebaseOptions.currentPlatform,
 /// );
 /// ```
+///
+/// NOTE: Replace the placeholder values below with your own Firebase project configuration.
 class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
     if (kIsWeb) {
@@ -41,52 +43,52 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: "AIzaSyAUNYFRXsClJe2bfiJ_IDWbHpVM14u-8WE",
-    authDomain: "html-6aa97.firebaseapp.com",
-    projectId: "html-6aa97",
-    storageBucket: "html-6aa97.appspot.com",
-    messagingSenderId: "29341518763",
-    appId: "1:29341518763:web:fd103ec55acf4a8f4120ee",
-    measurementId: "G-SSF5C4DK0N",
+    apiKey: "YOUR_WEB_API_KEY",
+    authDomain: "YOUR_WEB_AUTH_DOMAIN",
+    projectId: "YOUR_WEB_PROJECT_ID",
+    storageBucket: "YOUR_WEB_STORAGE_BUCKET",
+    messagingSenderId: "YOUR_WEB_MESSAGING_SENDER_ID",
+    appId: "YOUR_WEB_APP_ID",
+    measurementId: "YOUR_WEB_MEASUREMENT_ID",
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-   apiKey: "AIzaSyAUNYFRXsClJe2bfiJ_IDWbHpVM14u-8WE",
-    authDomain: "html-6aa97.firebaseapp.com",
-    projectId: "html-6aa97",
-    storageBucket: "html-6aa97.appspot.com",
-    messagingSenderId: "29341518763",
-    appId: "1:29341518763:web:fd103ec55acf4a8f4120ee",
-    measurementId: "G-SSF5C4DK0N",
+    apiKey: "YOUR_ANDROID_API_KEY",
+    authDomain: "YOUR_ANDROID_AUTH_DOMAIN",
+    projectId: "YOUR_ANDROID_PROJECT_ID",
+    storageBucket: "YOUR_ANDROID_STORAGE_BUCKET",
+    messagingSenderId: "YOUR_ANDROID_MESSAGING_SENDER_ID",
+    appId: "YOUR_ANDROID_APP_ID",
+    measurementId: "YOUR_ANDROID_MEASUREMENT_ID",
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: "AIzaSyAUNYFRXsClJe2bfiJ_IDWbHpVM14u-8WE",
-    authDomain: "html-6aa97.firebaseapp.com",
-    projectId: "html-6aa97",
-    storageBucket: "html-6aa97.appspot.com",
-    messagingSenderId: "29341518763",
-    appId: "1:29341518763:web:fd103ec55acf4a8f4120ee",
-    measurementId: "G-SSF5C4DK0N",
+    apiKey: "YOUR_IOS_API_KEY",
+    authDomain: "YOUR_IOS_AUTH_DOMAIN",
+    projectId: "YOUR_IOS_PROJECT_ID",
+    storageBucket: "YOUR_IOS_STORAGE_BUCKET",
+    messagingSenderId: "YOUR_IOS_MESSAGING_SENDER_ID",
+    appId: "YOUR_IOS_APP_ID",
+    measurementId: "YOUR_IOS_MEASUREMENT_ID",
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-  apiKey: "AIzaSyAUNYFRXsClJe2bfiJ_IDWbHpVM14u-8WE",
-  authDomain: "html-6aa97.firebaseapp.com",
-  projectId: "html-6aa97",
-  storageBucket: "html-6aa97.appspot.com",
-  messagingSenderId: "29341518763",
-  appId: "1:29341518763:web:fd103ec55acf4a8f4120ee",
-  measurementId: "G-SSF5C4DK0N",
+    apiKey: "YOUR_MACOS_API_KEY",
+    authDomain: "YOUR_MACOS_AUTH_DOMAIN",
+    projectId: "YOUR_MACOS_PROJECT_ID",
+    storageBucket: "YOUR_MACOS_STORAGE_BUCKET",
+    messagingSenderId: "YOUR_MACOS_MESSAGING_SENDER_ID",
+    appId: "YOUR_MACOS_APP_ID",
+    measurementId: "YOUR_MACOS_MEASUREMENT_ID",
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-  apiKey: "AIzaSyAUNYFRXsClJe2bfiJ_IDWbHpVM14u-8WE",
-  authDomain: "html-6aa97.firebaseapp.com",
-  projectId: "html-6aa97",
-  storageBucket: "html-6aa97.appspot.com",
-  messagingSenderId: "29341518763",
-  appId: "1:29341518763:web:fd103ec55acf4a8f4120ee",
-  measurementId: "G-SSF5C4DK0N",
+    apiKey: "YOUR_WINDOWS_API_KEY",
+    authDomain: "YOUR_WINDOWS_AUTH_DOMAIN",
+    projectId: "YOUR_WINDOWS_PROJECT_ID",
+    storageBucket: "YOUR_WINDOWS_STORAGE_BUCKET",
+    messagingSenderId: "YOUR_WINDOWS_MESSAGING_SENDER_ID",
+    appId: "YOUR_WINDOWS_APP_ID",
+    measurementId: "YOUR_WINDOWS_MEASUREMENT_ID",
   );
 }
