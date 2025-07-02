@@ -166,6 +166,21 @@ The application follows a **minimal, professional design** approach:
 - [ ] Analytics and monitoring
 - [ ] Custom branding options
 
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+**You are free to:**
+- ✅ Use this project for personal or commercial purposes
+- ✅ Copy, modify, and distribute the code
+- ✅ Include it in your own projects
+
+**Under the condition that:**
+- 📝 You provide appropriate credit to Gabriel Naandum (@official-gabito)
+- 📝 You include the original license notice
+
+See the **[LICENSE](https://github.com/official-gabito/portfolio/blob/main/LICENSE)** file for the full license text
+
 ## 👨‍💻 About the Developer
 
 **Gabriel Naandum** - Full-Stack Software Developer from Nigeria
