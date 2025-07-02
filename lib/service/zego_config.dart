@@ -4,11 +4,11 @@ import 'dart:math';
 
 class ZegoConfig {
   // Replace with your appID from ZEGO console
-  static const int appID = 868240864; // Replace with your actual AppID
+  static const int appID = 0; // Replace 0 with your actual AppID
 
   // Replace with your appSign from ZEGO console
   static const String appSign =
-      "1d0aa7ce9b8590baeef169a054fd71ce7431ef8196a3ee39776c0ce8971f270f"; // Replace with your actual AppSign
+      "your appSign"; // Replace with your actual AppSign
 
   // Generate token using your own logic or fetch from your token server
   // For testing purposes, you can return an empty string if token is not required

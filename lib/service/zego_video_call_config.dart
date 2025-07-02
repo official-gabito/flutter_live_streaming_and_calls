@@ -3,10 +3,10 @@
 
 class ZegoConfig {
   // Replace with your appID from ZEGO console
-  static const int appID = 2072031399; // Replace with your actual AppID
+  static const int appID = 0; // Replace 0 with your actual AppID
 
   // Replace with your appSign from ZEGO console
   static const String appSign =
-      "986578d574c0716765a8f126ff840bc6104aabfa78409663a6dd679b2e3fc728"; // Replace with your actual AppSign
+      "your appSign"; // Replace with your actual AppSign
 
 }
