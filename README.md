@@ -111,10 +111,8 @@ lib/
 │   ├── video_call_page.dart
 │   └── auth_page.dart
 ├── 📁 services/
-│   ├── firebase_service.dart
 │   └── zego_service.dart
-├── 📁 widgets/
-│   └── custom_components.dart
+|
 └── main.dart
 ```
 
